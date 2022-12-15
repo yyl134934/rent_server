@@ -12,7 +12,7 @@ import javax.annotation.Resource;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/22 15:59
  */
 class SmsCodeServiceImplTest extends RentHouseApplicationTests {

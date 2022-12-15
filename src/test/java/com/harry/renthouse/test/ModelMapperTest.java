@@ -10,7 +10,7 @@ import org.modelmapper.ModelMapper;
 import javax.annotation.Resource;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/8/9 17:43
  */
 public class ModelMapperTest extends RentHouseApplicationTests {

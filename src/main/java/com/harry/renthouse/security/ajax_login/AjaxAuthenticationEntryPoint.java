@@ -13,7 +13,7 @@ import java.io.IOException;
 
 /**
  * 登录口
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/8 14:00
  */
 public class AjaxAuthenticationEntryPoint extends BasicAuthenticationEntryPoint {

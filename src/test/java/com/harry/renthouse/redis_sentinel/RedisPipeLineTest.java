@@ -16,7 +16,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/9/3 13:47
  */
 public class RedisPipeLineTest extends RentHouseApplicationTests {

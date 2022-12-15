@@ -9,7 +9,7 @@ import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/22 10:22
  */
 public class PasswordStrongValidate implements ConstraintValidator<PasswordStrongAnnotation, String> {

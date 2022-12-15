@@ -5,7 +5,7 @@ import lombok.Getter;
 
 /**
  *  用户角色枚举
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/22 15:46
  */
 @Getter

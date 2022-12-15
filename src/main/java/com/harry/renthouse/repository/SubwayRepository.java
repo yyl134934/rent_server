@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  *  地铁线路dao
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 10:05
  */
 public interface SubwayRepository extends JpaRepository<Subway, Long> {

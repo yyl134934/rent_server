@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/19 18:39
  */
  class HouseElasticRepositoryTest extends RentHouseApplicationTests {

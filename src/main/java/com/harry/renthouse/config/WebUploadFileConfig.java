@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 17:33
  */
 @Configuration

@@ -16,7 +16,7 @@ import java.util.Collections;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/22 15:44
  */
 class UserServiceImplTest extends RentHouseApplicationTests {

@@ -11,7 +11,7 @@ import java.util.*;
 
 /**
  *  房源信息dto
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 15:09
  */
 @Data

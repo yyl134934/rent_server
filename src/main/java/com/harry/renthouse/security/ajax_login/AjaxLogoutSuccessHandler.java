@@ -13,7 +13,7 @@ import java.io.IOException;
 
 /**
  * 登出处理
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/8 14:17
  */
 @Component

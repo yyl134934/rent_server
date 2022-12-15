@@ -13,7 +13,7 @@ import java.io.Serializable;
 
 /**
  *  支持地区
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/8 16:57
  */
 @Entity

@@ -12,7 +12,7 @@ import java.util.Set;
 
 /**
  *  用户信息dto
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/11 11:48
  */
 @Data

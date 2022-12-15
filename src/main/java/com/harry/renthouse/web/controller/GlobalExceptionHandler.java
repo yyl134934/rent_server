@@ -16,7 +16,7 @@ import java.text.MessageFormat;
 
 /**
  *  全局异常处理
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 15:20
  */
 @RestControllerAdvice

@@ -15,7 +15,7 @@ import java.util.Map;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/11 11:22
  */
 class RedisUtilTest extends RentHouseApplicationTests {

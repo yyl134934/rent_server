@@ -9,7 +9,7 @@ import javax.persistence.Id;
 
 /**
  * 房屋图片dao
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 14:27
  */
 @Entity

@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/9/1 15:39
  */
 public interface RedisHouseService {

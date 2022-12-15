@@ -6,7 +6,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/6/8 13:58
  */
 @Configuration

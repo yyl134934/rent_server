@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 房源id集合表单
- * @author Harry Xu
+ * @author admin
  * @date 2020/8/13 10:53
  */
 @Data

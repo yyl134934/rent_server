@@ -1,7 +1,7 @@
 package com.harry.renthouse.config;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/11 11:16
  */
 import com.fasterxml.jackson.annotation.JsonAutoDetect;

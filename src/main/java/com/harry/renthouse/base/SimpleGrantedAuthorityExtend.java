@@ -7,7 +7,7 @@ import org.springframework.security.core.SpringSecurityCoreVersion;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/8/26 19:01
  */
 @NoArgsConstructor

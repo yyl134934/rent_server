@@ -65,6 +65,21 @@ services:
       - TZ="Asia/Shanghai"
     ports:
       - 10086:3306
+  # mysql:
+  #   # image: registry.cn-shenzhen.aliyuncs.com/harryxqb/mysql-house:1.0.0
+  #   image: mysql:5.7
+  #   container_name: mysql
+  #   restart: always
+  #   volumes:      # 数据卷挂载路径设置,将本机目录映射到容器目录
+  #     - /mysql-5.7.37-winx64/logs:/var/log/mysql
+  #     - /mysql-5.7.37-winx64/data:/var/lib/mysql
+  #     - /mysql-5.7.37-winx64/conf:/etc/mysql 
+  #   environment:
+  #     TZ: "Asia/Shanghai"
+  #     MYSQL_DATABASE: hentans
+  #     MYSQL_ROOT_PASSWORD: 123456
+  #   ports:
+  #     - 10086:3306
 #  kibana:
 #    image: kibana:7.5.1
 #    container_name: kibana

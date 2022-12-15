@@ -35,7 +35,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/18 18:40
  */
 @Service
@@ -144,7 +144,7 @@ public class UserServiceImpl implements UserService {
         user.setNickName(DEFAULT_NICk_NAME_PREFIX + phoneRegisterForm.getPhoneNumber());
         User result = userRepository.save(user);
         // 获取用户id设置角色
-        Long userId = result.getId();
+        Long userId = result.getId(); 
         List<Role> roles = roleList.stream().map(item -> {
             Role role = new Role();
             role.setName(item.getValue());

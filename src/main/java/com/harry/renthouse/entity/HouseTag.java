@@ -8,7 +8,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 14:13
  */
 @Entity

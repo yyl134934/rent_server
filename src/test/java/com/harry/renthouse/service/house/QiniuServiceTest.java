@@ -12,7 +12,7 @@ import java.io.File;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 17:55
  */
 class QiniuServiceTest extends RentHouseApplicationTests {

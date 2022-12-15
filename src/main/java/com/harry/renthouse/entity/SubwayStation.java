@@ -9,7 +9,7 @@ import javax.persistence.Id;
 
 /**
  * 地铁站实体类
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 10:04
  */
 @Entity

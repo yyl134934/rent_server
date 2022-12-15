@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  * 文件上传检查器
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/27 11:44
  */
 

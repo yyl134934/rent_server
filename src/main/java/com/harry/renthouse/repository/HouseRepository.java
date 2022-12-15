@@ -11,7 +11,7 @@ import java.util.Optional;
 
 /**
  *  房屋dao
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 14:21
  */
 public interface HouseRepository  extends JpaRepository<House, Long>, JpaSpecificationExecutor<House> {

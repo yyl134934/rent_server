@@ -24,7 +24,7 @@ import java.io.InputStream;
 
 /**
  *  七牛云service实现
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 17:41
  */
 @Service

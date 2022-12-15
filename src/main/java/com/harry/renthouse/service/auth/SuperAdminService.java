@@ -2,7 +2,7 @@ package com.harry.renthouse.service.auth;
 
 /**
  * 超级管理员服务
- * @author Harry Xu
+ * @author admin
  * @date 2020/9/4 10:49
  */
 public interface    SuperAdminService {

@@ -14,7 +14,7 @@ import java.util.Date;
 
 /**
  * 房屋实体类
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 14:14
  */
 @Entity

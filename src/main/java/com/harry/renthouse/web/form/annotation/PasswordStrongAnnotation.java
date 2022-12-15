@@ -8,7 +8,7 @@ import java.lang.annotation.*;
 
 /**
  * 密码强度校验注解
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/22 10:15
  */
 @Target(ElementType.FIELD)//目标是字段

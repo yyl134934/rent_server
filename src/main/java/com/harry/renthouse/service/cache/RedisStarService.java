@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/9/2 15:33
  */
 public interface RedisStarService {

@@ -8,7 +8,7 @@ import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/22 11:40
  */
 public class VerifyCodeTypeValidate implements ConstraintValidator<VerifyCodeTypeAnnotation, String> {

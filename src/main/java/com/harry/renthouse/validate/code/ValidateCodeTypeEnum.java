@@ -9,7 +9,7 @@ import java.util.Optional;
 
 /**
  * 验证码类型枚举
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/22 11:42
  */
 @Getter

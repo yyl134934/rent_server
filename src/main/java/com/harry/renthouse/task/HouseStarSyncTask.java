@@ -10,7 +10,7 @@ import javax.annotation.Resource;
 
 /**
  * 每天凌晨3点定时同步houseStar数据到mysql
- * @author Harry Xu
+ * @author admin
  * @date 2020/9/5 14:49
  */
 @Component

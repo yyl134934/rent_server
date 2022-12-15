@@ -12,7 +12,7 @@ import org.springframework.data.jpa.repository.Query;
 import java.util.List;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/7/27 17:07
  */
 public interface HouseStarRepository  extends JpaRepository<HouseStar, Long> {

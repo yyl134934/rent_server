@@ -6,7 +6,7 @@ import java.util.Optional;
 
 /**
  * 认证服务
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/11 11:46
  */
 public interface AuthenticationService {

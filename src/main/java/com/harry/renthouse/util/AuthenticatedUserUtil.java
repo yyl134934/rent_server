@@ -10,7 +10,7 @@ import java.util.Optional;
 
 /**
  * 认证用户工具类
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 15:29
  */
 public class AuthenticatedUserUtil {

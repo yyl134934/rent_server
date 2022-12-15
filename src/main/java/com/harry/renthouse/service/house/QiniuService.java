@@ -9,7 +9,7 @@ import java.io.InputStream;
 
 /**
  * 七牛云service
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 17:39
  */
 public interface QiniuService {

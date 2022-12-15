@@ -11,7 +11,7 @@ import javax.validation.constraints.Pattern;
 
 /**
  *  用户手机号注册表单
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/22 10:10
  */
 @Data

@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 服务端统一单个对象返回格式
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 15:06
  */
 @AllArgsConstructor

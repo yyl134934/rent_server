@@ -9,7 +9,7 @@ import java.util.Collection;
 /**
  *
  * token 凭证
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/11 9:51
  * @deprecated 直接在filter中拦截token，无需走provider
  */

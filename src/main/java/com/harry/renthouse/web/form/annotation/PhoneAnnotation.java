@@ -8,7 +8,7 @@ import javax.validation.Payload;
 import java.lang.annotation.*;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/6/3 16:48
  */
 @Target(ElementType.FIELD)//目标是字段

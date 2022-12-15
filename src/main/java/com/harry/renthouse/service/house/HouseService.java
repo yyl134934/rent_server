@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 房屋service
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 15:05
  */
 public interface HouseService {

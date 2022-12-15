@@ -31,7 +31,7 @@ import java.util.stream.Collectors;
 
 /**
  * 搜藏（点赞）缓存
- * @author Harry Xu
+ * @author admin
  * @date 2020/9/2 15:34
  */
 @Service

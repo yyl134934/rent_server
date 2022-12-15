@@ -6,7 +6,7 @@ import lombok.Data;
 
 /**
  *  认证信息dto
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/11 11:47
  */
 @Data

@@ -10,7 +10,7 @@ import java.util.Optional;
 
 /**
  * 用户dao
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/7 16:09
  */
 public interface UserRepository extends JpaRepository<User, Long> {

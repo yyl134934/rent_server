@@ -20,7 +20,7 @@ import java.util.Map;
 
 /**
  * web全局错误配置
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/8 10:54
  */
 @Controller

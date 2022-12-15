@@ -7,7 +7,7 @@ import java.util.function.Supplier;
 
 /**
  * 自定义业务异常
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 14:41
  */
 @Data

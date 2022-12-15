@@ -9,7 +9,7 @@ import javax.persistence.GenerationType;
 
 /**
  *  房屋图片dto
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/11 16:05
  */
 @Data

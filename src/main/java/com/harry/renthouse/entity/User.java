@@ -23,7 +23,7 @@ import java.util.Set;
 
 /**
  * 用户表映射
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/7 16:04
  */
 @Entity
@@ -99,4 +99,10 @@ public class User implements UserDetails, Serializable {
     public boolean isEnabled() {
         return true;
     }
+
+	@Override
+	public String getPassword() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

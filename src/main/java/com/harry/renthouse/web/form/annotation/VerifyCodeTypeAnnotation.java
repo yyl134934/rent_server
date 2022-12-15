@@ -9,7 +9,7 @@ import java.lang.annotation.*;
 
 /**
  *  验证码业务类型
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/22 11:37
  */
 @Target(ElementType.FIELD)//目标是字段

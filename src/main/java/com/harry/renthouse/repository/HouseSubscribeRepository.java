@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.Query;
 import java.util.Optional;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/6/4 16:09
  */
 public interface HouseSubscribeRepository extends JpaRepository<HouseSubscribe, Long> {

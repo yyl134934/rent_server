@@ -12,7 +12,7 @@ import org.springframework.util.Assert;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/7/28 10:39
  */
 class HouseServiceTest  extends RentHouseApplicationTests {

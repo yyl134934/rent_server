@@ -21,7 +21,7 @@ import java.util.stream.Collectors;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/20 14:03
  */
 class HouseElasticSearchServiceImplTest extends RentHouseApplicationTests {

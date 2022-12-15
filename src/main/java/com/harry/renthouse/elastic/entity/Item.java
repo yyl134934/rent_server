@@ -1,7 +1,7 @@
 package com.harry.renthouse.elastic.entity;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/20 10:04
  */
 import lombok.AllArgsConstructor;

@@ -7,7 +7,7 @@ import java.util.UUID;
 
 /**
  * token工具类
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/11 11:45
  */
 @Component

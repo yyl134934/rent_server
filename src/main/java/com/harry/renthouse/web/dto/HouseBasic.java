@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 房屋基本信息
- * @author Harry Xu
+ * @author admin
  * @date 2020/9/2 15:14
  */
 @Data

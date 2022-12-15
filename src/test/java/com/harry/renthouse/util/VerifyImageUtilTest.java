@@ -9,7 +9,7 @@ import java.util.Random;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/8/10 11:39
  */
 class VerifyImageUtilTest {

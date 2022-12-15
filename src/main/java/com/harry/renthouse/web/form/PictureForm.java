@@ -9,7 +9,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  *  房屋照片对象
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/11 15:47
  */
 @Data

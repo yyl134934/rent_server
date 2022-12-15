@@ -12,7 +12,7 @@ import javax.xml.ws.Service;
 import java.util.Optional;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/20 13:34
  */
 public interface HouseElasticSearchService {

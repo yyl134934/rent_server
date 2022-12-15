@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *  房屋图片dao
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/9 14:30
  */
 public interface HousePictureRepository extends JpaRepository<HousePicture, Long> {

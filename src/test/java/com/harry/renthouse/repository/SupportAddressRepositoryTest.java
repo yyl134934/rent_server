@@ -12,7 +12,7 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author Harry Xu
+ * @author admin
  * @date 2020/5/11 15:07
  */
 class SupportAddressRepositoryTest extends RentHouseApplicationTests {
